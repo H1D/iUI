@@ -3,6 +3,12 @@
    See LICENSE.txt for licensing terms
    Version @VERSION@
  */
+html {
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    -webkit-user-select: none;
+}
+ 
+ 
 body {
     margin: 0;
     font-family: Helvetica;
